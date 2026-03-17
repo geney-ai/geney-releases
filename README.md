@@ -6,15 +6,17 @@ Molecular cloning design tool for planning and executing cloning workflows.
 
 See [Releases](https://github.com/geney-ai/geney-releases/releases) for the latest version.
 
-### Linux
-Download the `.AppImage` file, make it executable, and run:
-```bash
-chmod +x Geney_*.AppImage
-./Geney_*.AppImage
-```
+| Platform | File |
+|----------|------|
+| macOS (Apple Silicon) | `Geney_*_aarch64.dmg` |
+| macOS (Intel) | `Geney_*_x64.dmg` |
 
-### macOS
-Download the `.dmg` file and drag Geney to your Applications folder.
+## Installation
+
+See [INSTALL.md](./INSTALL.md) for detailed installation instructions, including:
+- Pre-built app setup and macOS Gatekeeper workaround
+- Building from source
+- System requirements
 
 ## License
 
